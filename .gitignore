@@ -1,0 +1,11 @@
+# Ignore the virtual environment (.venv)
+.venv/
+# Ignore environment files
+.env
+# Ignore notebooks checkpoints
+.ipynb_checkpoints/
+# Ignorar data folder (you could access it throught the dataset path on Kaggle)
+kaggle/
+# Ignore system files
+.DS_Store
+Thumbs.db
