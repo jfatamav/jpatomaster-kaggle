@@ -7,7 +7,8 @@ Feel free to check out my social media and reach out for feedback or collaborati
 
 ## Notebooks datasets
 
-- [Karunarathna, K. (2024) Oxford University Reviews](https://www.kaggle.com/datasets/kanchana1990/oxford-university-reviews) EDA and word cloud analysis.
+All datasets are provided by their authors on Kaggle. Credit is given to them for their contributions, and I thank them for providing the data.
+- [Karunarathna, K. (2024) Oxford University Reviews]: (https://www.kaggle.com/datasets/kanchana1990/oxford-university-reviews) EDA and word cloud analysis.
 
 ## About the author
 
